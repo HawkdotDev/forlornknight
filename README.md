@@ -2,7 +2,7 @@
 
 **ForlornKnight** is a story-rich 2D action-adventure game built in **Godot Engine**, following the journey of a nameless knight haunted by the past, burdened by prophecy, and caught between the fate of magic and the rise of a new world.
 
-> _“Without a name, without a past, I walk the path between ruin and rebirth.”_
+> _“Without a name, without a past, I walk the path of ruin and rebirth.”_
 
 ## About the Game
 
