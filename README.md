@@ -20,7 +20,7 @@ ForlornKnight is set in the decaying remnants of **Camelot**, where time and mag
 ## Built With
 
 - [Godot Engine](https://godotengine.org/) – Open-source game engine
-- GDScript – Primary scripting language
+- [GDScript](https://gdscript.com/)  – Primary scripting language
 - [Pixelorama](https://pixelorama.org/) & [Krita](https://krita.org/) – For art and visual assets
 - [Audacity](https://www.audacityteam.org/) & [LMMS](https://lmms.io/) – Sound design and music
 
