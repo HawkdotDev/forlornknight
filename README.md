@@ -19,10 +19,10 @@ ForlornKnight is set in the decaying remnants of **Camelot**, where time and mag
 
 ## Built With
 
-- [Godot Engine 4.x](https://godotengine.org/) – Open-source game engine
+- [Godot Engine](https://godotengine.org/) – Open-source game engine
 - GDScript – Primary scripting language
-- Pixelorama & Krita – For art and visual assets
-- Audacity & LMMS – Sound design and music
+- [Pixelorama](https://pixelorama.org/) & [Krita](https://krita.org/) – For art and visual assets
+- [Audacity](https://www.audacityteam.org/) & [LMMS](https://lmms.io/) – Sound design and music
 
 ## Status
 
@@ -38,10 +38,9 @@ This is a solo/indie project for now. Feel free to open issues or suggestions.
 
 * *Hollow Knight*
 * *Dark Souls*
-* Arthurian Myths & Ghost Stories
+* Arthurian Myths & Stories
+* Mythology
 
 ## Follow the Journey
 
 Coming soon: Devlogs, trailers, and behind-the-scenes content.
-
-> *“A knight with no name carries the hopes of a forgotten realm.”*
