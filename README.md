@@ -6,13 +6,13 @@
 
 ## About the Game
 
-ForlornKnight is set in the decaying remnants of **Camelot**, where time and magic have fractured. As the **Nameless Knight**, you uncover your identity, confront ancient spirits, and shape the world through four possible endings — each a reflection of your choices, morality, and sacrifice.
+ForlornKnight is set in the decaying remnants of **Camelot**, where time and magic have fractured. As the **Nameless Knight**, you uncover your identity, confront ancient spirits, and shape the world through multiple possible endings — each reflecting your choices, morality, and sacrifice.
 
 ### Core Features
 
 - **Precision Combat** – Melee-focused, reactive combat with weighty weapons and spellcasting.
 - **Ghosts of Camelot** – Interact with lingering souls, each with their own story and regrets.
-- **Branching Narrative** – Four powerful endings, each representing a different fate for magic, Camelot, and yourself.
+- **Branching Narrative** – Multiple endings, each representing a different fate for magic, Camelot, and yourself.
 - **Regret & Redemption** – A central theme of identity, sacrifice, and the cost of power.
 - **Lore-Driven Exploration** – Unearth relics, solve puzzles, and reveal the buried truths of a ruined kingdom.
 
